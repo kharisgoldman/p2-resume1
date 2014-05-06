@@ -74,7 +74,7 @@ h4{
 	text-align: center;
 }
 
-#education {
+section {
 	color: white;
 	font-family: "rokitt";
 	font-size: 16px;
@@ -82,7 +82,7 @@ h4{
 	text-align: left;
 	margin-left: 20px;
 }
-#skills{
+/*#skills{
 	color: white;
 	font-family: "rokitt";
 	font-size: 16px;
@@ -90,11 +90,11 @@ h4{
 	text-align: left;
 	margin-left: 20px;
 
-}
+}*/
 #profile {
 	color: white;
 	font-family: "rokitt";
 	font-weight: bold;
 	font-size: 16px;
 	text-align: left;
-	margin-left: 20px;
+	/*margin-left: 20px;*/
