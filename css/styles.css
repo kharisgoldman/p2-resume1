@@ -10,21 +10,21 @@
 
 body{
 
-	background-color: black;
-	font-family: "Rokkitt", sans-serif;
+	background-color: #fff;
+	font-family: 'Lato', serif;
 	font-size: 24px;
+	
 }
 
 h1{
-	font-family: "rokkitt", sans-serif;
+	font-family: 'League Script', cursive;
 	color: black;
-	font-size: 40px;
+	font-size: 50px;
 	background: lightcyan;
 	padding: 5px 10px;
 	margin: 10px 0px;
 	border-radius: 36px;
 	border: 10px dimgrey solid;
-	text-transform: uppercase;
 	text-align: center;
 
 }
@@ -32,28 +32,29 @@ h1{
 
 h2{
 
-	font-family: "rokkitt", sans-serif;
+	font-family: 'League Script', cursive;
 	color: black;
 	background: lightcyan;
 	padding: 5px 10px;
 	margin: 10px 0px;
 	border-radius: 28px;
-	font-size: 24px;
+	font-size: 35px;
 	border: 10px dimgrey solid;
-	text-transform: uppercase;
+	
 	text-align: center;
 }
 h3 .btn {
-	font-family: "rokkitt", sans-serif;
-	font-size: 18px;
+	font-family: 'League Script', cursive;
+	font-size: 28px;
 	color: lightcyan;
 	background: dimgrey;
 	padding: 5px 10px;
 	margin: 10px 0px;
 	border-radius: 25px;
 	border: 10px lightcyan solid;
-	text-transform: uppercase;
+	
 	text-align: center;
+	text-decoration: none;
 }
 
 .btn:hover {
@@ -63,24 +64,24 @@ h3 .btn {
 }
 
 h4{
-	font-family: "rokkitt", sans-serif;
+	font-family: 'League Script', cursive;
 	color: lightcyan;
 	background: black;
 	padding: 5px 10px;
 	margin: 30px 0 0 0;
 	border-radius: 28px;
-	font-size: 24px;
+	font-size: 28px;
 	border: 10px dimgrey solid;
 	text-align: center;
 }
 
 section {
-	color: white;
-	font-family: "rokitt";
+	color: black;
+	font-family: 'Lato', serif;
 	font-size: 16px;
 	font-weight: bold;
 	text-align: left;
-	margin-left: 20px;
+	margin-left: 40px;
 }
 /*#skills{
 	color: white;
@@ -92,9 +93,11 @@ section {
 
 }*/
 #profile {
-	color: white;
-	font-family: "rokitt";
+	color: black;
+	font-family: 'Lato', serif;
 	font-weight: bold;
 	font-size: 16px;
 	text-align: left;
+	text-indent: 30px;
+	
 	/*margin-left: 20px;*/
